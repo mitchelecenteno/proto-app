@@ -6,5 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./proto-app-header.component.scss']
 })
 export class ProtoAppHeaderComponent {
-
 }

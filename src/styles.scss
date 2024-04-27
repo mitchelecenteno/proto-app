@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+html{
+  scroll-behavior: smooth;
+}
+
 .fade-hr {
   position: relative;
   width: 75%;
